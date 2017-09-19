@@ -1,0 +1,38 @@
+.red{
+    background-color: red;
+    display: inline-block;
+    margin: 10px;
+    width: 162px;
+    height: 100px;
+}
+.blue{
+    background-color: blue;
+    display: inline-block;
+    margin: 10px;
+    width: 348px;
+    height: 100px;
+}
+.orange{
+    background-color: orange;
+    display: inline-block;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+}
+#green{
+    background-color: green;
+    display: inline-block;
+    margin: 10px;
+    width: 348px;
+    height: 100px;
+}
+.purple{
+    background-color: purple;
+    display: inline-block;
+    margin: 10px;
+    width: 80px;
+    height: 80px;
+}
+#pright{
+    float: right
+}
